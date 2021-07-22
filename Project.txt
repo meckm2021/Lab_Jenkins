@@ -1,0 +1,21 @@
+Cert Program in Linux System Administration
+Centre for Excellence in Information Technology (CEIT)
+University of Papua New Guinea
+
+Project Topic: Setting up of CI Server
+Sub Topic: Jenkins
+Project Due: 20 September 2021
+
+Instructions:
+1.	Develop a Project timeline of your Group and submit no later than 13th September 2021. 
+
+2.	Configure Jenkins so that you have Continues Integration Server (CI Server) and integrate it with GitHub. 
+
+3.	Write a set of codes using any of the programing languages such as Java, Python, C++, etc. and place it in your GitHub repo. 
+
+4.	Configure Jenkins in a way that you should receive notifications if your modifications to the codes are not correct (build breaks).
+
+5.	Do up a document report of the project and present to the evaluator on the day of the project presentation on a neatly printed and compiled hard copy. 
+
+All the Best!
+
